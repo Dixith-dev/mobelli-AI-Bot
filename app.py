@@ -57,8 +57,6 @@ print("Creating assistant [-------------------5/5-------------------]")
 
 assist_id = assistant.id
 
-print(f"Created Assistant with Assistant ID :", assist_id)
-
 # --------------------------------------------------------------
 # Thread management
 # --------------------------------------------------------------
